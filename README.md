@@ -1,12 +1,16 @@
 ### Hi there 👋
 
 - 👨‍💻 Coding languages I know:
-  - Python  
+  - [Python](https://github.com/topics/python)  
     → My knowledge about Python is near 90%, I can code fluently in it
-  - C#  
+  - [C#](https://github.com/topics/csharp)  
     → Really great coding language, I know about 80% of it
-  - Kotlin  
+  - [Kotlin](https://github.com/topics/kotlin)  
     → Awesome language for coding Android apps, it's really easy getting used to it, ~60% knowledge
+  - I know more languages, but I don't code with them as much as with the ones mentioned above and they're listed below:
+    - [PHP](https://github.com/topics/php)
+    - [JavaScript](https://github.com/topics/javascript)
+    - [SourcePawn](https://github.com/topics/sourcepawn)
 - 🔭 I’m currently working on [CS:GO Anti-Cheat](https://github.com/ClassicCounter/AntiCheat), [Discord Bot with Multiple Features](https://discord.com/api/oauth2/authorize?client_id=887384789483679744&permissions=1099515161606&scope=applications.commands%20bot)
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Python/C# projects
