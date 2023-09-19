@@ -11,7 +11,7 @@
     - [PHP](https://github.com/topics/php)
     - [JavaScript](https://github.com/topics/javascript)
     - [SourcePawn](https://github.com/topics/sourcepawn)
-- 🔭 I’m currently working on [CS:GO Anti-Cheat](https://github.com/ClassicCounter/AntiCheat), [Discord Bot with Multiple Features](https://discord.com/api/oauth2/authorize?client_id=887384789483679744&permissions=1099515161606&scope=applications.commands%20bot)
+- 🔭 I’m currently working on [CS:GO Anti-Cheat](https://github.com/ClassicCounter/AntiCheat), [Discord Bot with Music, Moderation, Fun & Leveling features](https://discord.com/api/oauth2/authorize?client_id=887384789483679744&permissions=1099515161606&scope=applications.commands%20bot)
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Python/C# projects
 - 📫 How to reach me:
