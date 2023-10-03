@@ -11,7 +11,7 @@
     - [PHP](https://github.com/topics/php)
     - [JavaScript](https://github.com/topics/javascript)
     - [SourcePawn](https://github.com/topics/sourcepawn)
-- 🔭 I’m currently working on [CS:GO Anti-Cheat](https://github.com/ClassicCounter/AntiCheat), [Tournament Discord Bot](https://github.com/Heapy1337/Turniejowy)
+- 🔭 I’m currently working on ~~[CS:GO Anti-Cheat](https://github.com/ClassicCounter/AntiCheat)~~ (temporarily stopped working on it), [Tournament Discord Bot](https://github.com/Heapy1337/Turniejowy)
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on Python/C# projects
 - 📫 How to reach me:
