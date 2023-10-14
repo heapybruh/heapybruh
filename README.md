@@ -17,8 +17,6 @@
 - 🌱 I’m currently learning C++.
 - 👯 I’m looking to collaborate on Python and C# projects.
 - 📫 How to reach me...
-  - Twitter → [@heapybruh](https://twitter.com/heapybruh)
-  - TikTok → [@heapybruh](https://tiktok.com/@heapybruh) and [@notheapy](https://tiktok.com/@notheapy)
   - Steam → [id/heapybruh](https://steamcommunity.com/id/heapybruh)
   - Discord → [@heapy](https://discord.com/users/265941447612563466)
 
