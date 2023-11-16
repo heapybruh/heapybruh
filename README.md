@@ -20,4 +20,4 @@
   - Steam → [id/heapybruh](https://steamcommunity.com/id/heapybruh)
   - Discord → [@heapy](https://discord.com/users/265941447612563466)
 
-![Heapy1337's Stats](https://github-readme-stats.vercel.app/api?username=Heapy1337&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![heapybruh's Stats](https://github-readme-stats.vercel.app/api?username=heapybruh&theme=dark&show_icons=true&hide_border=true&count_private=true)
