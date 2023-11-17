@@ -12,7 +12,7 @@
   - **JavaScript**  
     → I don't code in JS that much, but if I ever have to - It's not a problem for me. I have never coded NodeJS app 😵‍💫.
   - **SourcePawn**  
-    → I've recently started coding plugins for CS:GO and SP is... Okay? I miss few things from other coding languages, but it's not as bad as I thought it would be.
+    → It's okay. I miss few things from other coding languages, but it's not as bad as I thought it would be.
 - 🔭 I’m currently working on [2016 CS:GO Client](https://discord.gg/hWmJvGYfZe).
 - 🌱 I’m currently learning C++.
 - 👯 I’m looking to collaborate on Python and C# projects.
