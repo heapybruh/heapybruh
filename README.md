@@ -6,7 +6,7 @@
   - **C#**  
     → Really great language. Most of my C# projects are apps for Windows. I have coded UI apps with [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia), [WPF](https://github.com/dotnet/wpf) and [WinUI](https://github.com/microsoft/microsoft-ui-xaml).
   - **Kotlin**  
-    → Awesome language for coding Android apps. It's really easy getting used to it. I have coded few Material3 apps.
+    → Awesome language for coding Android apps. It's really easy getting used to it. I have coded few apps with Jetpack Compose.
   - **PHP**  
     → I prefer using something else like [Django](https://github.com/django/django) or [FastAPI](https://github.com/tiangolo/fastapi), but I tend to use PHP sometimes.
   - **JavaScript**  
