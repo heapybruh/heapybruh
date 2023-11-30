@@ -10,11 +10,11 @@
   - **PHP**  
     → I prefer using something else like [Django](https://github.com/django/django) or [FastAPI](https://github.com/tiangolo/fastapi), but I tend to use PHP sometimes.
   - **JavaScript**  
-    → I don't code in JS that much, but if I ever have to - It's not a problem for me. I have never coded NodeJS app 😵‍💫.
+    → I don't code in JS that much, but if I ever have to - It's not a problem for me. I've never coded a NodeJS app though 😵‍💫.
   - **SourcePawn**  
-    → It's okay. I miss few things from other coding languages, but it's not as bad as I thought it would be.
+    → I've coded many plugins and if I have to add/fix something, I'll do it without any struggle.
 - 🔭 I’m currently working on [2016 CS:GO Client](https://discord.gg/hWmJvGYfZe).
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++ *(I might start learning Lua and Rust later)*.
 - 👯 I’m looking to collaborate on Python and C# projects.
 - 📫 How to reach me...
   - Steam → [id/heapybruh](https://steamcommunity.com/id/heapybruh)
