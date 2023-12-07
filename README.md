@@ -4,9 +4,9 @@
   - **Python**  
     → My knowledge about Python is near 90% and I like it the most. It's perfect for back-end projects in my opinion.
   - **C#**  
-    → Really great language. Most of my C# projects are apps for Windows. I have coded UI apps with [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia), [WPF](https://github.com/dotnet/wpf) and [WinUI](https://github.com/microsoft/microsoft-ui-xaml).
+    → Really great language for making Desktop apps. I have good experience with these UI frameworks: [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia), [WPF](https://github.com/dotnet/wpf) and [WinUI](https://github.com/microsoft/microsoft-ui-xaml).
   - **Kotlin**  
-    → Awesome language for coding Android apps. It's really easy getting used to it. I have coded few apps with Jetpack Compose.
+    → It's really easy getting used to it. I have coded few Android apps with [Jetpack Compose](https://developer.android.com/jetpack/compose).
   - **PHP**  
     → I prefer using something else like [Django](https://github.com/django/django) or [FastAPI](https://github.com/tiangolo/fastapi), but I tend to use PHP sometimes.
   - **JavaScript**  
@@ -14,7 +14,7 @@
   - **SourcePawn**  
     → I've coded many plugins and if I have to add/fix something, I'll do it without any struggle.
 - 🔭 I’m currently working on [2016 CS:GO Client](https://discord.gg/hWmJvGYfZe).
-- 🌱 I’m currently learning C++ *(I might start learning Lua and Rust later)*.
+- 🌱 I’m currently learning C++ *(I might start learning Lua, Go or Rust later)*.
 - 👯 I’m looking to collaborate on Python and C# projects.
 - 📫 How to reach me...
   - Steam → [id/heapybruh](https://steamcommunity.com/id/heapybruh)
