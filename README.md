@@ -14,7 +14,7 @@
   - **SourcePawn**  
     → I've coded many plugins and if I have to add/fix something, I'll do it without any struggle.
 - 🔭 I’m currently working on...
-  - [2016 CS:GO Client](https://flashboost.ru)
+  - [ClassicCounter](https://flashboost.ru) → Play 5v5s in 2016 CS:GO and v92 CS:S.
   - [SteamLookup](https://heapy.xyz) → Tool for looking up Steam profiles.
 - 🌱 I’m currently learning C++ *(I might start learning Lua, Go or Rust later)*.
 - 👯 I’m looking to collaborate on Python and C# projects.
