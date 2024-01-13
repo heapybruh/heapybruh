@@ -5,12 +5,12 @@
     → My knowledge about Python is near 90% and I like it the most. It's perfect for back-end projects in my opinion.
   - **C#**  
     → Really great language for making Desktop apps. I have good experience with these UI frameworks: [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia), [WPF](https://github.com/dotnet/wpf) and [WinUI](https://github.com/microsoft/microsoft-ui-xaml).
+  - **TypeScript**  
+    → I've recently started coding in TS. It's great for making fast and good looking websites.
   - **Kotlin**  
     → It's really easy getting used to it. I have coded few Android apps with [Jetpack Compose](https://developer.android.com/jetpack/compose).
   - **PHP**  
     → I prefer using something else like [Django](https://github.com/django/django) or [FastAPI](https://github.com/tiangolo/fastapi), but I tend to use PHP sometimes.
-  - **JavaScript**  
-    → I don't code in JS that much, but if I ever have to - It's not a problem for me. I've never coded a NodeJS app though 😵‍💫.
   - **SourcePawn**  
     → I've coded many plugins and if I have to add/fix something, I'll do it without any struggle.
 - 🔭 I’m currently working on...
