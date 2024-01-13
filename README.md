@@ -13,7 +13,9 @@
     → I don't code in JS that much, but if I ever have to - It's not a problem for me. I've never coded a NodeJS app though 😵‍💫.
   - **SourcePawn**  
     → I've coded many plugins and if I have to add/fix something, I'll do it without any struggle.
-- 🔭 I’m currently working on [2016 CS:GO Client](https://flashboost.ru).
+- 🔭 I’m currently working on...
+  - [2016 CS:GO Client](https://flashboost.ru)
+  - [SteamLookup](https://heapy.xyz) → Tool for looking up Steam profiles.
 - 🌱 I’m currently learning C++ *(I might start learning Lua, Go or Rust later)*.
 - 👯 I’m looking to collaborate on Python and C# projects.
 - 📫 How to reach me...
