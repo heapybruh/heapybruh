@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on...
   - [ClassicCounter](https://flashboost.ru) → Play 5v5s in 2016 CS:GO and v92 CS:S.
   - [SteamLookup](https://heapy.xyz) → Tool for looking up Steam profiles.
-- 🌱 I’m currently learning TypeScript/JavaScript *(I might start learning Lua or Go later)*.
+- 🌱 I’m currently learning TypeScript *(I might start learning Lua or Go later)*.
 - 👯 I’m looking to collaborate on Python and C# projects.
 - 📫 How to reach me...
   - Steam → [id/heapybruh](https://steamcommunity.com/id/heapybruh)
