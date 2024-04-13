@@ -6,8 +6,8 @@
 - **Other ones:** Used to code in **C++** (Back-end), **Kotlin** (Front/Back-end) and **PHP** (Back-end), but I don't do it as much anymore.
 
 ### 📓 Projects
-- **[ClassicCounter:](https://flashboost.ru)** Play 5v5s in 2016 CS:GO.
-- **[SteamLookup:](https://heapy.xyz)** Tool for looking up Steam profiles.
+- **ClassicCounter:** [Play 5v5s in 2016 CS:GO.](https://flashboost.ru)
+- **SteamLookup:** [Tool for looking up Steam profiles.](https://heapy.xyz)
 
 ### ✉️ Contact
 - **Steam:** [id/heapybruh](https://steamcommunity.com/id/heapybruh)
