@@ -4,7 +4,7 @@
 - **TypeScript:** Front/Back-end.
 - **SourcePawn:** Coded many plugins - usually simple ones.
 - **Rust**: Started learning it.
-- **Other ones:** Used to code in **C++** (Back-end), **Kotlin** (Front/Back-end) and **PHP** (Back-end), but I don't do it as much anymore.
+- **Other ones:** Used to code in **C++** (Back-end), **Kotlin** (Front/Back-end) and **PHP**, but I don't do it as much anymore.
 
 ### 📓 Projects
 - **ClassicCounter:** [Play 5v5s in 2016 CS:GO.](https://flashboost.ru)
