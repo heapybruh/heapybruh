@@ -1,5 +1,5 @@
 ### 🤖 Languages
-- **Python:** Front/Back-end, mostly Back-end.
+- **Python:** Back-end.
 - **C#:** Front/Back-end, mostly Front-end.
 - **TypeScript:** Front/Back-end.
 - **SourcePawn:** Coded many plugins - usually simple ones.
