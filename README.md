@@ -1,7 +1,7 @@
 ### 🤖 Languages
 - **Python:** Back-end.
 - **C#:** Front/Back-end, mostly Front-end.
-- **TypeScript:** Front/Back-end.
+- **TypeScript/JavaScript:** Front/Back-end.
 - **SourcePawn:** Coded many plugins - usually simple ones.
 - **Other ones:** Used to code in **C++**, **Kotlin** and **PHP**, but I don't do it as much anymore.
 
