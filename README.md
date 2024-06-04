@@ -3,7 +3,6 @@
 - **C#:** Front/Back-end, mostly Front-end.
 - **TypeScript:** Front/Back-end.
 - **SourcePawn:** Coded many plugins - usually simple ones.
-- **Rust**: Started learning it.
 - **Other ones:** Used to code in **C++**, **Kotlin** and **PHP**, but I don't do it as much anymore.
 
 ### 📓 Projects
