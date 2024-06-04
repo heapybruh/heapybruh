@@ -6,7 +6,7 @@
 - **Other ones:** Used to code in **C++**, **Kotlin** and **PHP**, but I don't do it as much anymore.
 
 ### 📓 Projects
-- **ClassicCounter:** [Play 5v5s in 2016 CS:GO.](https://flashboost.ru)
+- **ClassicCounter:** [Play 2016 CS:GO.](https://flashboost.ru)
 - **SteamLookup:** [Tool for looking up Steam profiles.](https://heapy.xyz)
 
 ### ✉️ Contact
