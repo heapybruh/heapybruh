@@ -6,7 +6,7 @@
 - **Other ones:** Used to code in **C++**, **Kotlin** and **PHP**, but I don't do it as much anymore.
 
 ### 📓 Projects
-- **ClassicCounter:** [CS:GO community with many gamemodes hosted and own 2016 client.](https://cc.heapy.xyz)
+- **ClassicCounter:** [CS:GO community with many gamemodes hosted and own 2016 client.](https://flashboost.ru)
 - **simple.ts:** [Simple and Easy-to-use Discord Bot written in TypeScript.](https://simple.heapy.xyz)
 - **SteamLookup:** [Tool for looking up Steam profiles.](https://steam.heapy.xyz)
 
