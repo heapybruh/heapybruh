@@ -6,8 +6,8 @@
 - **Other ones:** Used to code in **C++**, **Kotlin** and **PHP**, but I don't do it as much anymore.
 
 ### 📓 Projects
-- **ClassicCounter:** [CS:GO community with many gamemodes hosted and own 2016 client.](https://flashboost.ru)
-- **SteamLookup:** [Tool for looking up Steam profiles.](https://heapy.xyz)
+- **ClassicCounter:** [CS:GO community with many gamemodes hosted and own 2016 client.](https://cc.heapy.xyz)
+- **SteamLookup:** [Tool for looking up Steam profiles.](https://steam.heapy.xyz)
 
 ### ✉️ Contact
 - **Steam:** [id/heapybruh](https://steamcommunity.com/id/heapybruh)
