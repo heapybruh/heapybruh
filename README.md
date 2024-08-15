@@ -7,7 +7,7 @@
 
 ### 📓 Projects
 - **ClassicCounter:** [CS:GO community with many gamemodes hosted and own 2016 client.](https://flashboost.ru)
-- **simple.ts:** [Simple and Easy-to-use Discord Bot written in TypeScript.](https://simple.heapy.xyz)
+- **simple.ts:** [Simple and Easy-to-use Discord Bot written in TypeScript for Music Playback.](https://simple.heapy.xyz)
 - **SteamLookup:** [Tool for looking up Steam profiles.](https://steam.heapy.xyz)
 - **Shortify:** [Fast and Free URL Shortener.](https://shortify.heapy.xyz)
 
