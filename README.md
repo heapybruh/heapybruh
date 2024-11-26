@@ -6,7 +6,7 @@
 
 ## 💻 Projects
 - **ClassicCounter:** [CS:GO community with many gamemodes hosted and own 2016 client.](https://classiccounter.cc)
-- **SteamLookup:** [Tool for looking up Steam profiles.](https://steam.heapy.xyz)
+- **SteamLookup:** [Tool for looking up Steam profiles.](https://heapy.xyz)
 
 ## ✉️ Contact
 - **Steam:** [id/heapybruh](https://steamcommunity.com/id/heapybruh)
